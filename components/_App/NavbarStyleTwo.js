@@ -67,7 +67,7 @@ const NavbarStyleTwo = () => {
                   <li className="nav-item">
                     <Link href="/about-modern" activeClassName="active">
                       <a onClick={toggleNavbar} className="nav-link">
-                        About Us
+                        Ebitukwata Ko
                       </a>
                     </Link>
                   </li>
@@ -75,7 +75,7 @@ const NavbarStyleTwo = () => {
                   <li className="nav-item">
                     <Link href="/estates" activeClassName="active">
                       <a onClick={toggleNavbar} className="nav-link">
-                        Our Estates
+                        Esiteeti Zaffe
                       </a>
                     </Link>
                   </li>
@@ -88,9 +88,9 @@ const NavbarStyleTwo = () => {
                   </li> */}
 
                   <li className="nav-item">
-                    <Link href="/contact" activeClassName="active">
+                    <Link href="/Tutukilire" activeClassName="active">
                       <a onClick={toggleNavbar} className="nav-link">
-                        Contact
+                        Tutukilire
                       </a>
                     </Link>
                   </li>
@@ -98,7 +98,7 @@ const NavbarStyleTwo = () => {
               </div>
 
               {/* <div className="others-options">
-                <Link href="/contact">
+                <Link href="/Tutukilire">
                   <a className="default-btn">Get Started</a>
                 </Link>
               </div> */}

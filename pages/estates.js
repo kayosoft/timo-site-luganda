@@ -11,10 +11,10 @@ const BlogGrid = () => {
       <NavbarStyleTwo />
 
       <PageBannerStyle2
-        pageTitle="Our Estates"
+        pageTitle="Esiteeti Zaffe"
         homePageUrl="/"
         homePageText="Home"
-        activePageText="Our Estates"
+        activePageText="Esiteeti Zaffe"
       />
 
       <div className="blog-area ptb-100">
@@ -29,15 +29,15 @@ const BlogGrid = () => {
                     </a>
                   </Link>
                   <Link href="/degeya-estate">
-                    <a className="tag">Kiwenda Degeya Estate</a>
+                    <a className="tag">Kiwenda Degeya Esiteeti</a>
                   </Link>
                 </div>
                 <div className="content">
                   <h3>
                     <Link href="/degeya-estate">
                       <a>
-                        50ft by 100ft plots for sale in Kiwenda Degeya Estate
-                        for 10m
+                        poloti ya 50ft ku 100ft mu Kiwenda Degeya Estate ku
+                        miliyo kumi (10m)
                       </a>
                     </Link>
                   </h3>
@@ -53,15 +53,15 @@ const BlogGrid = () => {
                     </a>
                   </Link>
                   <Link href="/mukono-estate">
-                    <a className="tag">Mukono, Kalagi Estate</a>
+                    <a className="tag">Mukono, Kalagi Esiteeti</a>
                   </Link>
                 </div>
                 <div className="content">
                   <h3>
                     <Link href="/mukono-estate">
                       <a>
-                        50ft by 100ft plots for sale in Mukono, Kalagi Estate
-                        for 15m
+                        Poloti 50ft ku 100ft mu Mukono, Kalagi Esiteeti ya
+                        miliyoni kumi nattaano (15m)
                       </a>
                     </Link>
                   </h3>
@@ -77,15 +77,15 @@ const BlogGrid = () => {
                     </a>
                   </Link>
                   <Link href="/gayaza-estate">
-                    <a className="tag">Gayaza Kiwenda Estate</a>
+                    <a className="tag">Gayaza Kiwenda Esiteeti</a>
                   </Link>
                 </div>
                 <div className="content">
                   <h3>
                     <Link href="/gayaza-estate">
                       <a>
-                        50ft by 100ft plots for sale in Gayaza, Kiwenda Estate
-                        for 45m
+                        Poloti 50ft ku 100ft mu Gayaza, Kiwenda Esiteeti ku
+                        miliyoni Ana muttaano (45m)
                       </a>
                     </Link>
                   </h3>

@@ -61,7 +61,7 @@ const FooterStyleThree = () => {
                 <ul className="links-list">
                   <li>
                     <Link href="/about-simple">
-                      <a>About Us</a>
+                      <a>Ebitukwata Ko</a>
                     </Link>
                   </li>
                   <li>
@@ -98,7 +98,7 @@ const FooterStyleThree = () => {
                     </Link>
                   </li>
                   <li>
-                    <Link href="/contact">
+                    <Link href="/Tutukilire">
                       <a>Support</a>
                     </Link>
                   </li>
@@ -113,8 +113,8 @@ const FooterStyleThree = () => {
                     </Link>
                   </li>
                   <li>
-                    <Link href="/contact">
-                      <a>Contact</a>
+                    <Link href="/Tutukilire">
+                      <a>Tutukilire</a>
                     </Link>
                   </li>
                 </ul>
@@ -146,7 +146,7 @@ const FooterStyleThree = () => {
                     </Link>
                   </li>
                   <li>
-                    <Link href="/contact">
+                    <Link href="/Tutukilire">
                       <a>Tutukilile</a>
                     </Link>
                   </li>

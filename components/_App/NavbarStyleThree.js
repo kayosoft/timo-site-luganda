@@ -148,7 +148,7 @@ const NavbarStyleThree = () => {
                         onClick={(e) => e.preventDefault()}
                         className="dropdown-toggle nav-link"
                       >
-                        About Us
+                        Ebitukwata Ko
                       </a>
                     </Link>
 
@@ -330,7 +330,7 @@ const NavbarStyleThree = () => {
                                 </li>
                                 <li>
                                   <Link
-                                    href="/contact"
+                                    href="/Tutukilire"
                                     activeClassName="active"
                                   >
                                     <a onClick={toggleNavbar}>Tutukilile</a>
@@ -435,9 +435,9 @@ const NavbarStyleThree = () => {
                   </li>
 
                   <li className="nav-item">
-                    <Link href="/contact" activeClassName="active">
+                    <Link href="/Tutukilire" activeClassName="active">
                       <a onClick={toggleNavbar} className="nav-link">
-                        Contact
+                        Tutukilire
                       </a>
                     </Link>
                   </li>
@@ -445,7 +445,7 @@ const NavbarStyleThree = () => {
               </div>
 
               <div className="others-options">
-                <Link href="/contact">
+                <Link href="/Tutukilire">
                   <a className="default-btn">Get Started</a>
                 </Link>
               </div>

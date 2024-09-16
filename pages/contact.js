@@ -1,11 +1,11 @@
 import React from "react";
 import NavbarStyleTwo from "@/components/_App/NavbarStyleTwo";
 import PageBannerStyle2 from "@/components/Common/PageBannerStyle2";
-import ContactForm from "@/components/Contact/ContactForm";
-import ContactInfo from "@/components/Contact/ContactInfo";
+import TutukilireForm from "@/components/Tutukilire/TutukilireForm";
+import TutukilireInfo from "@/components/Tutukilire/TutukilireInfo";
 import FooterStyleTwo from "@/components/_App/FooterStyleTwo";
 
-const Contact = () => {
+const Tutukilire = () => {
   return (
     <>
       <NavbarStyleTwo />
@@ -17,13 +17,13 @@ const Contact = () => {
         activePageText="Tutukilile"
       />
 
-      <ContactForm />
+      <TutukilireForm />
 
-      <ContactInfo />
+      <TutukilireInfo />
 
       <FooterStyleTwo />
     </>
   );
 };
 
-export default Contact;
+export default Tutukilire;

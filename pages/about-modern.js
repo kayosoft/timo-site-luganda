@@ -19,10 +19,10 @@ const AboutModern = () => {
       <NavbarStyleTwo />
 
       <PageBannerStyle2
-        pageTitle="About Us"
+        pageTitle="Ebitukwata Ko"
         homePageUrl="/"
         homePageText="Home"
-        activePageText="About Us"
+        activePageText="Ebitukwata Ko"
       />
 
       <div className="about-area ptb-100">
@@ -42,11 +42,11 @@ const AboutModern = () => {
                 <div className="features-text">
                   <h6>Ekyilubililwa Kyafe</h6>
                   <p>
-                    Our mission is to facilitate seamless land transactions
-                    while prioritizing our clients' visions and objectives.
-                    Whether you're seeking to purchase, sell, or invest in land,
-                    we're committed to providing unparalleled guidance and
-                    support tailored to your needs.
+                    Minsoni Yafe Kwe Kuyamba Bulimuntu okufuuka Laandi Loodi Nga
+                    Tumuguza Etaka Elitaliiko Nkayana nga Ate Ebeeyi Eja
+                    bulungyi mu Nsawo Ze, Oba Otunda Taka, Oba Ogula Taka,
+                    Kolagana Nafe kubanga Twewadeyo okukuyamba mulugendo luno
+                    Lwotute.
                   </p>
                 </div>
               </div>

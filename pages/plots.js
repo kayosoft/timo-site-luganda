@@ -11,7 +11,7 @@ const Plots = () => {
       <NavbarStyleTwo />
 
       <PageBannerStyle2
-        pageTitle="Our Estates - Location"
+        pageTitle="Esiteeti Zaffe - Location"
         homePageUrl="/"
         homePageText="Home"
         activePageText="Plots"

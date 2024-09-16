@@ -25,23 +25,23 @@ const INITIAL_STATE = {
   text: "",
 };
 
-const ContactForm = () => {
-  const [contact, setContact] = useState(INITIAL_STATE);
+const TutukilireForm = () => {
+  const [Tutukilire, setTutukilire] = useState(INITIAL_STATE);
   const handleChange = (e) => {
     const { name, value } = e.target;
-    setContact((prevState) => ({ ...prevState, [name]: value }));
-    // console.log(contact)
+    setTutukilire((prevState) => ({ ...prevState, [name]: value }));
+    // console.log(Tutukilire)
   };
 
   const handleSubmit = async (e) => {
     e.preventDefault();
     try {
-      const url = `${baseUrl}/api/contact`;
-      const { name, email, number, subject, text } = contact;
+      const url = `${baseUrl}/api/Tutukilire`;
+      const { name, email, number, subject, text } = Tutukilire;
       const payload = { name, email, number, subject, text };
       const response = await axios.post(url, payload);
       console.log(response);
-      setContact(INITIAL_STATE);
+      setTutukilire(INITIAL_STATE);
       alertContent();
     } catch (error) {
       console.log(error);
@@ -50,7 +50,7 @@ const ContactForm = () => {
 
   return (
     <>
-      <div className="contact-area ptb-100">
+      <div className="Tutukilire-area ptb-100">
         <div className="container">
           <div className="section-title">
             <h2>Tutulikilile Twogere</h2>
@@ -60,7 +60,7 @@ const ContactForm = () => {
             </p>
           </div>
 
-          <div className="contact-form">
+          <div className="Tutukilire-form">
             <form onSubmit={handleSubmit}>
               <div className="row">
                 <div className="col-lg-6 col-md-6 col-sm-6">
@@ -70,7 +70,7 @@ const ContactForm = () => {
                       name="name"
                       placeholder="Your name"
                       className="form-control"
-                      value={contact.name}
+                      value={Tutukilire.name}
                       onChange={handleChange}
                       required
                     />
@@ -83,7 +83,7 @@ const ContactForm = () => {
                       name="email"
                       placeholder="Your email"
                       className="form-control"
-                      value={contact.email}
+                      value={Tutukilire.email}
                       onChange={handleChange}
                       required
                     />
@@ -96,7 +96,7 @@ const ContactForm = () => {
                       name="number"
                       placeholder="Phone number"
                       className="form-control"
-                      value={contact.number}
+                      value={Tutukilire.number}
                       onChange={handleChange}
                       required
                     />
@@ -109,7 +109,7 @@ const ContactForm = () => {
                       name="subject"
                       placeholder="Subject"
                       className="form-control"
-                      value={contact.subject}
+                      value={Tutukilire.subject}
                       onChange={handleChange}
                       required
                     />
@@ -123,7 +123,7 @@ const ContactForm = () => {
                       rows="6"
                       placeholder="Write your message..."
                       className="form-control"
-                      value={contact.text}
+                      value={Tutukilire.text}
                       onChange={handleChange}
                       required
                     />
@@ -143,4 +143,4 @@ const ContactForm = () => {
   );
 };
 
-export default ContactForm;
+export default TutukilireForm;

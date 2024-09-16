@@ -44,18 +44,18 @@ const FooterStyleFour = () => {
                 <ul className="links-list">
                   <li>
                     <Link href="/about-modern">
-                      <a>About Us</a>
+                      <a>Ebitukwata Ko</a>
                     </Link>
                   </li>
                   <li>
                     <Link href="/estates">
-                      <a>Our Estates</a>
+                      <a>Esiteeti Zaffe</a>
                     </Link>
                   </li>
 
                   <li>
-                    <Link href="/contact">
-                      <a>Contact</a>
+                    <Link href="/Tutukilire">
+                      <a>Tutukilire</a>
                     </Link>
                   </li>
                 </ul>

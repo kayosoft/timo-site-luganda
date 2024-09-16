@@ -81,7 +81,7 @@ const NavbarStyleOne = () => {
                   </li>
 
                   <li className="nav-item">
-                    <Link href="/contact" activeClassName="active">
+                    <Link href="/Tutukilire" activeClassName="active">
                       <a onClick={toggleNavbar} className="nav-link">
                         Endagiliro
                       </a>
