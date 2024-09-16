@@ -36,7 +36,7 @@ const ContactForm = () => {
   const handleSubmit = async (e) => {
     e.preventDefault();
     try {
-      const url = `${baseUrl}/api/contact`;
+      const url = `${baseUrl}/api/Contact`;
       const { name, email, number, subject, text } = Contact;
       const payload = { name, email, number, subject, text };
       const response = await axios.post(url, payload);
