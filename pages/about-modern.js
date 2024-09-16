@@ -30,7 +30,7 @@ const AboutModern = () => {
           <div className="row align-items-center">
             <div className="col-lg-6 col-md-12">
               <div className="about-content">
-                <span className="sub-title">EITUKWATAKO</span>
+                <span className="sub-title">EBITUKWATAKO</span>
                 <p>
                   Tuli Tiimu yabakugu kunsonga Zetaka, okuva kukulibalila
                   Omuwendo , Okulikula kulanya paka ku kukulitunda, Tumaze
@@ -40,7 +40,7 @@ const AboutModern = () => {
                 </p>
 
                 <div className="features-text">
-                  <h6>= Ekyilubililwa Kyafe</h6>
+                  <h6>Ekyilubililwa Kyafe</h6>
                   <p>
                     Our mission is to facilitate seamless land transactions
                     while prioritizing our clients' visions and objectives.

@@ -1,29 +1,29 @@
-import React from 'react'
-import NavbarStyleTwo from '@/components/_App/NavbarStyleTwo'
-import PageBannerStyle2 from '@/components/Common/PageBannerStyle2'
-import ContactForm from '@/components/Contact/ContactForm'
-import ContactInfo from '@/components/Contact/ContactInfo'
-import FooterStyleTwo from '@/components/_App/FooterStyleTwo'
- 
+import React from "react";
+import NavbarStyleTwo from "@/components/_App/NavbarStyleTwo";
+import PageBannerStyle2 from "@/components/Common/PageBannerStyle2";
+import ContactForm from "@/components/Contact/ContactForm";
+import ContactInfo from "@/components/Contact/ContactInfo";
+import FooterStyleTwo from "@/components/_App/FooterStyleTwo";
+
 const Contact = () => {
-    return (
-        <>
-            <NavbarStyleTwo /> 
+  return (
+    <>
+      <NavbarStyleTwo />
 
-            <PageBannerStyle2 
-                pageTitle="Contact Us"
-                homePageUrl="/"
-                homePageText="Home"
-                activePageText="Contact Us"
-            />
+      <PageBannerStyle2
+        pageTitle="Tutukilile"
+        homePageUrl="/"
+        homePageText="Home"
+        activePageText="Tutukilile"
+      />
 
-            <ContactForm />
+      <ContactForm />
 
-            <ContactInfo />
- 
-            <FooterStyleTwo />
-        </>
-    )
-}
+      <ContactInfo />
+
+      <FooterStyleTwo />
+    </>
+  );
+};
 
 export default Contact;

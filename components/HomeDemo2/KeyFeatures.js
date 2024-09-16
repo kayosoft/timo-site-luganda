@@ -34,21 +34,21 @@ const KeyFeatures = () => {
                     <div className="icon">
                       <i className="ri-eye-line"></i>
                     </div>
-                    <h5>Buying and selling Land</h5>
+                    <h5>Tutunda Nokugula Etaka</h5>
                     <p></p>
                   </li>
                   <li>
                     <div className="icon bg5">
                       <i className="ri-cloud-line"></i>
                     </div>
-                    <h5>Property management</h5>
+                    <h5>Okulungamya Emaali yo</h5>
                     <p></p>
                   </li>
                   <li>
                     <div className="icon bg3">
                       <i className="ri-leaf-line"></i>
                     </div>
-                    <h5>Free land consultation</h5>
+                    <h5>Okwebuuzibwako kwa Bwerere</h5>
                     <p></p>
                   </li>
                 </ul>
