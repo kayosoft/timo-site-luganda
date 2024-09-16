@@ -330,7 +330,7 @@ const NavbarStyleThree = () => {
                                 </li>
                                 <li>
                                   <Link
-                                    href="/Tutukilire"
+                                    href="/Contact"
                                     activeClassName="active"
                                   >
                                     <a onClick={toggleNavbar}>Tutukilile</a>
@@ -435,9 +435,9 @@ const NavbarStyleThree = () => {
                   </li>
 
                   <li className="nav-item">
-                    <Link href="/Tutukilire" activeClassName="active">
+                    <Link href="/Contact" activeClassName="active">
                       <a onClick={toggleNavbar} className="nav-link">
-                        Tutukilire
+                        Contact
                       </a>
                     </Link>
                   </li>
@@ -445,7 +445,7 @@ const NavbarStyleThree = () => {
               </div>
 
               <div className="others-options">
-                <Link href="/Tutukilire">
+                <Link href="/Contact">
                   <a className="default-btn">Get Started</a>
                 </Link>
               </div>

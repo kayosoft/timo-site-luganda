@@ -3,16 +3,16 @@ import React from "react";
 const ContactInfo = () => {
   return (
     <>
-      <div className="Tutukilire-info-area pb-100">
+      <div className="Contact-info-area pb-100">
         <div className="container">
-          <div className="Tutukilire-info-inner">
+          <div className="Contact-info-inner">
             <h2>
               Olina Ekyibuuzo Kyona? Tukubileko kukasimu oba Otuweleza Obubaka
             </h2>
 
             <div className="row justify-content-center">
               <div className="col-lg-4 col-md-6 col-sm-6">
-                <div className="single-Tutukilire-info-box">
+                <div className="single-Contact-info-box">
                   <div className="icon bg1">
                     <i className="ri-customer-service-2-line"></i>
                   </div>
@@ -23,7 +23,7 @@ const ContactInfo = () => {
               </div>
 
               <div className="col-lg-4 col-md-6 col-sm-6">
-                <div className="single-Tutukilire-info-box">
+                <div className="single-Contact-info-box">
                   <div className="icon">
                     <i className="ri-earth-line"></i>
                   </div>
@@ -34,7 +34,7 @@ const ContactInfo = () => {
               </div>
 
               <div className="col-lg-4 col-md-6 col-sm-6">
-                <div className="single-Tutukilire-info-box">
+                <div className="single-Contact-info-box">
                   <div className="icon bg2">
                     <i className="ri-map-pin-line"></i>
                   </div>

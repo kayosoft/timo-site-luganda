@@ -80,7 +80,7 @@ const PricingPlanStyle5 = () => {
                     <i className="ri-check-line"></i> 24/7 Support
                   </li>
                   <li>
-                    <i className="ri-check-line"></i> Business Tutukilire
+                    <i className="ri-check-line"></i> Business Contact
                   </li>
                   <li>
                     <i className="ri-check-line"></i> SEO Optimized

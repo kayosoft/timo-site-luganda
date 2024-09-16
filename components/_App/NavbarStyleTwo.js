@@ -90,7 +90,7 @@ const NavbarStyleTwo = () => {
                   <li className="nav-item">
                     <Link href="/contact" activeClassName="active">
                       <a onClick={toggleNavbar} className="nav-link">
-                        Tutukilire
+                        Contact
                       </a>
                     </Link>
                   </li>

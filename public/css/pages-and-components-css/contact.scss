@@ -1,4 +1,4 @@
-.Tutukilire-info-inner {
+.Contact-info-inner {
   background: linear-gradient(26.1deg, #ed2775 0%, #ff7448 100%);
   padding: 100px 100px 75px;
   text-align: center;
@@ -19,7 +19,7 @@
       weight: 400;
     }
   }
-  .single-Tutukilire-info-box {
+  .single-Contact-info-box {
     padding: 30px;
     margin-bottom: 25px;
     background-color: var(--whiteColor);
@@ -64,7 +64,7 @@
     }
   }
 }
-.Tutukilire-form {
+.Contact-form {
   max-width: 950px;
   text-align: center;
   margin: {
@@ -144,7 +144,7 @@
 
 /* Max width 767px */
 @media only screen and (max-width: 767px) {
-  .Tutukilire-info-inner {
+  .Contact-info-inner {
     padding: 60px 15px 35px;
 
     h2 {
@@ -152,7 +152,7 @@
       font-size: 20px;
       margin-bottom: 30px;
     }
-    .single-Tutukilire-info-box {
+    .single-Contact-info-box {
       padding: 20px 15px;
 
       .icon {
@@ -165,7 +165,7 @@
       }
     }
   }
-  .Tutukilire-form {
+  .Contact-form {
     .form-group {
       margin-bottom: 20px;
     }
@@ -181,13 +181,13 @@
 
 /* Min width 768px to Max width 991px */
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-  .Tutukilire-info-inner {
+  .Contact-info-inner {
     padding: 80px 30px 55px;
 
     h2 {
       font-size: 30px;
     }
-    .single-Tutukilire-info-box {
+    .single-Contact-info-box {
       h3 {
         margin-bottom: 5px;
         font-size: 16px;
@@ -201,14 +201,14 @@
 
 /* Min width 992px to Max width 1199px */
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-  .Tutukilire-info-inner {
+  .Contact-info-inner {
     padding: 100px 30px 75px;
   }
 }
 
 /* Min width 1200px to Max width 1399px */
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
-  .Tutukilire-info-inner {
+  .Contact-info-inner {
     padding: 100px 50px 75px;
   }
 }

@@ -53,7 +53,7 @@ const AppIntroVideo = () => {
                   dummy text.Never missyour chance its just began.
                 </p>
 
-                <Link href="/Tutukilire">
+                <Link href="/Contact">
                   <a className="default-btn">Get Started</a>
                 </Link>
               </div>

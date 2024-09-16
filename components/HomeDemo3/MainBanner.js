@@ -16,7 +16,7 @@ const MainBanner = () => {
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Id
                   tincidunt eifend odio viverra diam aliquet donec again.
                 </p>
-                <Link href="/Tutukilire">
+                <Link href="/Contact">
                   <a className="default-btn">Start Free Trial</a>
                 </Link>
               </div>

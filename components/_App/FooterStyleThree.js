@@ -98,7 +98,7 @@ const FooterStyleThree = () => {
                     </Link>
                   </li>
                   <li>
-                    <Link href="/Tutukilire">
+                    <Link href="/Contact">
                       <a>Support</a>
                     </Link>
                   </li>
@@ -113,8 +113,8 @@ const FooterStyleThree = () => {
                     </Link>
                   </li>
                   <li>
-                    <Link href="/Tutukilire">
-                      <a>Tutukilire</a>
+                    <Link href="/Contact">
+                      <a>Contact</a>
                     </Link>
                   </li>
                 </ul>
@@ -146,7 +146,7 @@ const FooterStyleThree = () => {
                     </Link>
                   </li>
                   <li>
-                    <Link href="/Tutukilire">
+                    <Link href="/Contact">
                       <a>Tutukilile</a>
                     </Link>
                   </li>

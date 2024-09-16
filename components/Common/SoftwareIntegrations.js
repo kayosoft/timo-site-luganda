@@ -27,7 +27,7 @@ const SoftwareIntegrations = () => {
                   your business purpose orem ipsum dummy.
                 </p>
 
-                <Link href="/Tutukilire">
+                <Link href="/Contact">
                   <a className="default-btn">Get Started</a>
                 </Link>
               </div>
