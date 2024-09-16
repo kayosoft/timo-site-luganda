@@ -59,7 +59,7 @@ const FooterStyleTwo = () => {
                   </li>
 
                   <li>
-                    <Link href="/Contact">
+                    <Link href="/contact">
                       <a>Endagililo</a>
                     </Link>
                   </li>

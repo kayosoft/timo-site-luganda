@@ -53,7 +53,7 @@ const BestAppEver = () => {
                 </ul>
 
                 <div className="btn-box">
-                  <Link href="/Contact">
+                  <Link href="/contact">
                     <a className="default-btn">Start Free Trial</a>
                   </Link>
                   <Link href="/features">

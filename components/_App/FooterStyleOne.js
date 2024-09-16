@@ -51,7 +51,7 @@ const FooterStyleOne = () => {
                 </Link>
               </li>
               <li className="nav-item">
-                <Link href="/Contact">
+                <Link href="/contact">
                   <a className="nav-link">Support</a>
                 </Link>
               </li>
@@ -66,7 +66,7 @@ const FooterStyleOne = () => {
                 </Link>
               </li>
               <li className="nav-item">
-                <Link href="/Contact">
+                <Link href="/contact">
                   <a className="nav-link">Contact</a>
                 </Link>
               </li>

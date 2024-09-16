@@ -54,7 +54,7 @@ const FooterStyleFour = () => {
                   </li>
 
                   <li>
-                    <Link href="/Contact">
+                    <Link href="/contact">
                       <a>Contact</a>
                     </Link>
                   </li>

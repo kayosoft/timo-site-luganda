@@ -27,7 +27,7 @@ const SoftwareIntegrations = () => {
                   your business purpose orem ipsum dummy.
                 </p>
 
-                <Link href="/Contact">
+                <Link href="/contact">
                   <a className="default-btn">Get Started</a>
                 </Link>
               </div>

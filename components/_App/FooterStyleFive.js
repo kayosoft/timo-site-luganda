@@ -97,7 +97,7 @@ const FooterStyleFive = () => {
                     </Link>
                   </li>
                   <li>
-                    <Link href="/Contact">
+                    <Link href="/contact">
                       <a>Support</a>
                     </Link>
                   </li>
@@ -112,7 +112,7 @@ const FooterStyleFive = () => {
                     </Link>
                   </li>
                   <li>
-                    <Link href="/Contact">
+                    <Link href="/contact">
                       <a>Contact</a>
                     </Link>
                   </li>
@@ -145,7 +145,7 @@ const FooterStyleFive = () => {
                     </Link>
                   </li>
                   <li>
-                    <Link href="/Contact">
+                    <Link href="/contact">
                       <a>Tutukilile</a>
                     </Link>
                   </li>

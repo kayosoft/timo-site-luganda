@@ -13,7 +13,7 @@ const MainBanner = () => {
                 <h1>Own your land today</h1>
                 <p>We buy and sale land in several parts of central Uganda.</p>
 
-                <Link href="/Contact">
+                <Link href="/contact">
                   <a className="default-btn">Reach out to us now!</a>
                 </Link>
               </div>
