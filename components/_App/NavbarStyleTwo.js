@@ -98,7 +98,7 @@ const NavbarStyleTwo = () => {
               </div>
 
               {/* <div className="others-options">
-                <Link href="/Tutukilire">
+                <Link href="/contact">
                   <a className="default-btn">Get Started</a>
                 </Link>
               </div> */}
