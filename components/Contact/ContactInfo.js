@@ -1,6 +1,6 @@
 import React from "react";
 
-const TutukilireInfo = () => {
+const ContactInfo = () => {
   return (
     <>
       <div className="Tutukilire-info-area pb-100">
@@ -59,4 +59,4 @@ const TutukilireInfo = () => {
   );
 };
 
-export default TutukilireInfo;
+export default ContactInfo;
